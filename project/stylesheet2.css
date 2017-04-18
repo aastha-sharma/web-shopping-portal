@@ -1,0 +1,10 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	height:500px;
+	width:100%;
+	background-image:url(pics/abg.jpg);
+	background-size:100% 100%;
+}

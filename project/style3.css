@@ -1,0 +1,44 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background-image:url(pics/background1.jpg);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+}
+.slider{
+height:800px;
+width:600px;
+background-color:#999;
+background-color:#999;
+border-style:double;
+border-width:20px;
+margin:0 auto;
+
+}
+.header{
+	height:200px;
+	width:600px;
+	background-color:#000;
+	border-style:double;
+		border-color:#000;
+}
+h1{
+	margin:-120px;
+
+}
+.content{
+	height:600px;
+	width:600px;
+	position:relative;
+    top:200px;
+}
+
+input [type=reset]{
+	position:relative;
+	left:20px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:24px;
+}
+	
